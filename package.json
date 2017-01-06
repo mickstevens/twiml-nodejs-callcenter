@@ -1,0 +1,16 @@
+{
+  "name": "callcenter",
+  "version": "1.0.0",
+  "description": "twiml-nodejs-callcenter",
+  "repository": "https://github.com/mickstevens/twiml-nodejs-callcenter.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twilio": "^2.11.1"
+  }
+}

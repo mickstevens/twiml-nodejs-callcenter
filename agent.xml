@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="alice">Be ready to be connected to the next customer</Say>
+  <Dial>
+    <Queue>callcenter</Queue>
+  </Dial>
+</Response>
